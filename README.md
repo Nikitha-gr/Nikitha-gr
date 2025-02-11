@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Frontend Web Development**
 - 👯 I’m looking to collaborate on **Reactjs and Frontend Projects**
 - 🤔 I’m looking for help with **React & Chakra UI**
-- 📫 How to reach me: **[Email](mailto:nikitha14.gr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nikitha-gopalakrishna/)
+- 📫 How to reach me: **[Email](mailto:nikitha14.gr@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/nikitha-gopalakrishna/)**
 
 ---
 
