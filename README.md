@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -45,7 +44,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikitha-gr&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitha-gr&theme=dark" width="48%" />
 </p>
 
 
