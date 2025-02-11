@@ -39,11 +39,10 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikitha-gr&show_icons=true&theme=dark" width="48%" />
 </p>
-
-
+-->
