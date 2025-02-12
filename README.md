@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on upskilling myself with new technologies
 - 🌱 I’m currently learning **Frontend Web Development**
-- 👯 I’m looking to collaborate on **Reactjs and Frontend Projects**
-- 🤔 I’m looking for help with **React & Chakra UI**
 - 📫 How to reach me: **[Email](mailto:nikitha14.gr@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/nikitha-gopalakrishna/)**
 
 ---
@@ -39,10 +37,9 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<!--
+
 ### 📊 GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikitha-gr&show_icons=true&theme=dark" width="48%" />
 </p>
--->
