@@ -1,0 +1,59 @@
+<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes matrixRain {
+      0% { opacity: 0; transform: translateY(-100px); }
+      50% { opacity: 1; transform: translateY(0px); }
+      100% { opacity: 0; transform: translateY(100px); }
+    }
+
+    text {
+      font-size: 50px;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      fill: #00FFFF;
+      stroke: #00FFFF;
+      stroke-width: 2;
+      filter: url(#neon);
+      animation: matrixRain 1.5s linear infinite;
+    }
+
+    text:nth-child(1) { animation-delay: 0s; }
+    text:nth-child(2) { animation-delay: 0.1s; }
+    text:nth-child(3) { animation-delay: 0.2s; }
+    text:nth-child(4) { animation-delay: 0.3s; }
+    text:nth-child(5) { animation-delay: 0.4s; }
+    text:nth-child(6) { animation-delay: 0.5s; }
+    text:nth-child(7) { animation-delay: 0.6s; }
+    text:nth-child(8) { animation-delay: 0.7s; }
+    text:nth-child(9) { animation-delay: 0.8s; }
+    text:nth-child(10) { animation-delay: 0.9s; }
+  </style>
+
+  <defs>
+    <filter id="neon">
+      <feGaussianBlur stdDeviation="3.5" result="blurred"/>
+      <feMerge>
+        <feMergeNode in="blurred"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="50" y="30">F</text>
+  <text x="90" y="30">r</text>
+  <text x="130" y="30">o</text>
+  <text x="170" y="30">n</text>
+  <text x="210" y="30">t</text>
+  <text x="250" y="30">e</text>
+  <text x="290" y="30">n</text>
+  <text x="330" y="30">d</text>
+  <text x="400" y="30">D</text>
+  <text x="440" y="30">e</text>
+  <text x="480" y="30">v</text>
+  <text x="520" y="30">e</text>
+  <text x="560" y="30">l</text>
+  <text x="600" y="30">o</text>
+  <text x="640" y="30">p</text>
+  <text x="680" y="30">e</text>
+  <text x="720" y="30">r</text>
+</svg>

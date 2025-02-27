@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hello, I'm Nikitha G R! 👋</h1>
 
 <p align="center">
-  <img src="matrix.svg" width="600"/>
+  <img src="./frontend_developer.svg" width="600"/>
 </p>
 
 ---
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
@@ -32,14 +31,7 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitha-gr&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitha-gr&theme=dark"/>
-</p>
-
----
-
-<p align="center">
-  <img src="./matrix_2.svg" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitha-gr&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
