@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitha-g-r&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitha-g-r&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitha-gr&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitha-gr&theme=dark"/>
 </p>
 
 ---
