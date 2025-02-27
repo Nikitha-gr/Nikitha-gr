@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hello, I'm Nikitha G R! 👋</h1>
 
 <p align="center">
-  <img src="./frontend_developer.svg" width="600"/>
+  <img src="./matrix.svg" width="600"/>
 </p>
 
 ---
